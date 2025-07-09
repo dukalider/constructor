@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+codex/criar-pagina-index-com-tailwindcss
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -14,6 +15,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+codex/criar-pagina-index-com-tailwindcss
     "next": "^15.3.5",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
@@ -26,5 +28,6 @@
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.11",
     "typescript": "^5.8.3"
+
   }
 }
